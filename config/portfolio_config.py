@@ -1,4 +1,3 @@
-# config/portfolio_config.py
 """
 Portfolio Configuration File
 
